@@ -8,4 +8,4 @@
 
 Want to get invovled with IWW Tech? 💻 [***Contact us!***](mailto:tech@iww.org)
 
-☞ [**Learn more about IWW membership 🐈‍⬛**](https://iww.org/membership) ☜
+[**Learn more about IWW membership 🐈‍⬛**](https://iww.org/membership)
