@@ -1,1 +1,1 @@
-[![Industrial Workers of the World](https://media.giphy.com/media/ignXUZWfFgmKqEcPxC/source.gif)](https://iww.org)
+[![Industrial Workers of the World](https://media.giphy.com/media/mC23iiUyLMzqLbCEQU/giphy.gif)](https://iww.org)
