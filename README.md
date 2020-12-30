@@ -6,8 +6,6 @@
 ## [🇫Facebook](https://facebook.com/iww.org)
 ## [🎆 GIPHY](https://giphy.com/iww)
 
-Want to get invovled with IWW Tech? 💻
-
-## [*Contact us!*](mailto:tech@iww.org)
+Want to get invovled with IWW Tech? 💻 [***Contact us!***](mailto:tech@iww.org)
 
 [**Learn more about IWW membership 🐈‍⬛**](https://iww.org/membership)
