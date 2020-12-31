@@ -1,7 +1,7 @@
 [![Industrial Workers of the World](https://media.giphy.com/media/mC23iiUyLMzqLbCEQU/giphy.gif)](https://iww.org)
+## [:octocat: GitHub Org](https://github.com/iww)
 ## [:globe_with_meridians: iww.org](https://iww.org)
 ## [🗞 Industrial Worker](https://industrialworker.org)
-## [:octocat: GitHub Org](https://github.com/iww)
 ## [:bird: Twitter](https://twitter.com/iww)
 ## [📸 Instagram](https://instagram.com/industrialworkersoftheworld)
 ## [🇫Facebook](https://facebook.com/iww.org)
