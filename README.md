@@ -13,4 +13,4 @@ Want to get invovled with IWW Tech? :computer: [***Contact us! :e-mail:***](mail
 ## [:fireworks: GIPHY](https://giphy.com/iww)
 ## [🧩 Wikipedia](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World)
 
-*Labor is entitled to all it produces*
+*Labor is entitled to all it produces.*
