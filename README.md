@@ -13,4 +13,6 @@ Want to get involved with IWW Tech? :computer: [***Contact us! :e-mail:***](mail
 ## [:fireworks: GIPHY](https://giphy.com/iww)
 ## [𝐖 Wikipedia](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World)
 
+[**IWW Safer Space Policy**](https://iww.org/safer-space)
+
 *Labor is entitled to all it produces.*
