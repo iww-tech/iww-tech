@@ -1,6 +1,6 @@
 [![✊ ∙ An injury to one is an injury to all ∙ Industrial Workers of the World ∙ IWW](https://media.giphy.com/media/mC23iiUyLMzqLbCEQU/giphy.gif)](https://iww.org)
 
-Want to get involved with IWW Tech? :computer: [***Contact us! :e-mail:***](mailto:tech@iww.org)
+Want to get involved with IWW Tech? :computer: [***Get in touch! :e-mail:***](https://forms.gle/X6UnuPwUzh5916aH7)
 
 [**Learn more about IWW membership 🐈‍⬛**](https://iww.org/membership)
 
