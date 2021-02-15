@@ -1,9 +1,11 @@
 <div align="center">
-![✊ ∙ An injury to one is an injury to all ∙ Industrial Workers of the World ∙ IWW](https://media.giphy.com/media/mC23iiUyLMzqLbCEQU/giphy.gif)](https://iww.org)
+  
+[![✊ ∙ An injury to one is an injury to all ∙ Industrial Workers of the World ∙ IWW](https://media.giphy.com/media/mC23iiUyLMzqLbCEQU/giphy.gif)](https://iww.org)
 
 Want to get involved with IWW Tech? :computer: [***Let us know your skills! :clipboard:***](https://forms.gle/X6UnuPwUzh5916aH7)
 
 [**Learn more about IWW membership 🐈‍⬛**](https://iww.org/membership)
+
 </div>
 ## [:octocat: GitHub Org](https://github.com/iww)
 ## [:globe_with_meridians: IWW.org](https://iww.org)
