@@ -22,6 +22,6 @@ Want to get involved with IWW Tech? :computer:
 
 <div align="right">
 
-*Labor is entitled to all it produces.*
+*Labor is entitled to all it produces. :fist_raised:*
 
 </div>
