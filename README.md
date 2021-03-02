@@ -10,6 +10,7 @@ Want to get involved with IWW Tech? :computer:
 </div>
 
 ## [:octocat: GitHub Org](https://github.com/iww)
+## [:fox_face: GitLab](https://gitlab.com/iww)
 ## [:globe_with_meridians: IWW.org](https://iww.org)
 ## [:newspaper_roll: Industrial Worker](https://industrialworker.org)
 ## [:bird: Twitter](https://twitter.com/iww)
