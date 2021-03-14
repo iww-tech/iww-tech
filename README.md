@@ -9,7 +9,7 @@ Want to get involved with IWW Tech? :computer:
 
 </div>
 
-## [:handshake: Organize with us!](https://iww.org/organize)
+## [:handshake: *Organize with us!*](https://iww.org/organize)
 ## [:octocat: GitHub Org](https://github.com/iww)
 ## [:fox_face: GitLab](https://gitlab.com/iww)
 ## [:globe_with_meridians: IWW.org](https://iww.org)
