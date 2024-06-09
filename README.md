@@ -5,7 +5,7 @@
 Want to get involved with IWW Tech? :computer:  
 [***Let us know your skills! :clipboard:***](https://forms.gle/X6UnuPwUzh5916aH7)
 
-### [Learn more about IWW membership 🐈‍⬛:closed_book:](https://iww.org/membership)
+### [Learn more about IWW membership 🐈‍⬛ :closed_book:](https://iww.org/membership)
 
 </div>
 
